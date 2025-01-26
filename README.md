@@ -21,7 +21,6 @@ HTML: To structure the content.
 CSS: To style and enhance the visual appeal.
 How to View 📄
 #Clone the repository:
-bash
 Copy
 Edit
 git clone https://github.com/<your-username>/<repository-name>.git
